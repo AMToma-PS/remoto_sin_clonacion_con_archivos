@@ -1,1 +1,3 @@
-# remoto_sin_clonacion_con_archivos
+# remoto_sin_clonacion_con_archivos     
+
+tecnologias 
